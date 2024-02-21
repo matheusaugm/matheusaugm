@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusaugm&label=Profile%20views&color=b40e0e&style=flat-square" alt="matheusaugm" /> </p>
 
-- 🔭 I’m currently working an external on **Vallourec **S.A.
+- 🔭 I’m currently working an external on **Vallourec S.A.**
 
 - 🌱 I’m currently learning **Flutter**
 
