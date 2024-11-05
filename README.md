@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusaugm&label=Profile%20views&color=b40e0e&style=flat-square" alt="matheusaugm" /> </p>
 
-- 🔭 I’m currently working an external on **Vallourec S.A.**
+- 🔭 I’m currently working an external on **[Inter](https://inter.co/)**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Micronaut**
 
-- 🤝 I’m looking for help with **ARCore with flutter**
+- 🤝 I’m exploring best practices for **testing with Java 21 – any tips are welcome!**
 
-- 💬 Ask me about **TS and related frameworks**
+- 💬 Ask me about **TypeScript and related frameworks**
 
 - 📫 How to reach me **matheusmeka01@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/matheusaugm/](https://www.linkedin.com/in/matheusaugm/)
 
-- ⚡ Fun fact **I do like to learn about REALLY random stuff**
+- ⚡ Fun fact **I love diving into unexpected topics and exploring new perspectives in tech and beyond!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
