@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c7174848-b040-49a5-84f2-ef341c0d0d2b)<h1 align="center">Hi 👋, I'm Matheus Augusto</h1>
+<h1 align="center">Hi 👋, I'm Matheus Augusto</h1>
 <h3 align="center">A passionate dad and also a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusaugm&label=Profile%20views&color=b40e0e&style=flat-square" alt="matheusaugm" /> </p>
